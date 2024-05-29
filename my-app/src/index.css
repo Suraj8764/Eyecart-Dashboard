@@ -1,0 +1,10 @@
+main {
+  min-height: 78vh;
+  min-width: 23vw;
+  margin: auto;
+}
+.footer{
+  height: 8px;
+  width: 2vw;
+  margin: auto;
+}
